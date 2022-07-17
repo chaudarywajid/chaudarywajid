@@ -25,7 +25,8 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
   <img align="left" alt="Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">
 </a>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a2942f513d29e571641413c312b56f2aa23318e0ace6f66605ba4180a48fb56/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64616e69656c6d696368616c736b69"><img src="https://camo.githubusercontent.com/3a2942f513d29e571641413c312b56f2aa23318e0ace6f66605ba4180a48fb56/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64616e69656c6d696368616c736b69" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid">
+<img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
   
   **
   
