@@ -38,7 +38,7 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 
 **Languages and Tools:**
 
-<a href="[https://www.java.com/en/](https://docs.microsoft.com/en-us/dotnet/csharp/)](https://docs.microsoft.com/en-us/dotnet/csharp/)" title="Java" rel="nofollow">
-    <code><img alt="C#" width="35" height="35" src="[https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png)" style="max-width: 100%;"></code>
+<a href="[https://www.java.com/en/](https://docs.microsoft.com/en-us/dotnet/csharp/)] title="Java" rel="nofollow">
+    <code><img alt="C#" width="35" height="35" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png]" style="max-width: 100%;"></code>
   </a>
 
