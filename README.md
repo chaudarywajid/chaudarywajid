@@ -68,7 +68,8 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 <code><img alt="api" height="35" src="https://user-images.githubusercontent.com/5048841/179480292-813c1d1b-96ef-41bc-b4ab-f35725f02638.png" style="max-width: 100%;"></code></a>
  <a href="https://www.w3schools.com/html/" title="html" rel="nofollow">
  <code><img alt="html" height="32" src="https://user-images.githubusercontent.com/5048841/179475059-d778a600-df6a-481d-9f5c-453b2303175c.png" style="max-width: 100%;"></code></a>
- <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481313-1f5c99ea-2df6-4b04-abed-2e532837631d.png" style="max-width: 100%;"></code>
+  <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf" title="wpf" rel="nofollow">
+ <code><img alt="wpf" height="35" src="https://user-images.githubusercontent.com/5048841/179481313-1f5c99ea-2df6-4b04-abed-2e532837631d.png" style="max-width: 100%;"></code></a>
   <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481816-0c4afeb2-8e84-4aed-9911-12ab45515fb3.jpg" style="max-width: 100%;"></code>
   
  
