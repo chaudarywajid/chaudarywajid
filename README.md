@@ -48,9 +48,10 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
   </a>  
   <code><img alt="Net" height="35" src="https://user-images.githubusercontent.com/5048841/179471959-ee299d92-3a4d-428f-8355-705e1dfc0bfa.png" style="max-width: 100%;"></code>
    <code><img alt="NetCore" width="35" src="https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png" style="max-width: 100%;"></code>
-  ![net1](https://user-images.githubusercontent.com/5048841/179471959-ee299d92-3a4d-428f-8355-705e1dfc0bfa.png)
-
+   
+   <code><img alt="NetCore" width="35" src="https://user-images.githubusercontent.com/5048841/179472126-7d83fdc9-688e-45ab-bbba-a0c8d5089b05.png" style="max-width: 100%;"></code>
  
+
 ![asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs](https://user-images.githubusercontent.com/5048841/179468256-5cb780ee-b2a2-49a7-aacf-fd1e86420d83.jpg)
 ![net1](https://user-images.githubusercontent.com/5048841/179468273-4ddd0c8e-4bd2-4adf-8af4-c3de85c46eea.png)
 
