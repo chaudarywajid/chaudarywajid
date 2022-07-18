@@ -27,7 +27,6 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 <a target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid">
 <img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
 
-------------
 > 
 
 **Talking about Personal Stuffs:**
@@ -38,11 +37,14 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 - 📫 How to reach me: [@chaudarywajid](https://www.linkedin.com/in/chaudarywajid/);
 - ⚽ My hobbies: Tech, Dev. Board and low level coding.
 
+
+<img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
+
 **Languages and Tools:**
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" rel="nofollow">
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
   </a>
  
- <img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
+ 
 
