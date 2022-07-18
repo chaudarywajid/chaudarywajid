@@ -24,6 +24,14 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">
 </a>
 
+<a href="https://github.com/chaudarywajid" title="GitHub">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">
+</a>
+
+<a href="https://www.youtube.com/channel/UC5KEFqKLyg1TPse9tbnXe1g" title="YouTube" rel="nofollow">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;">
+</a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid">
 <img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a>
 
