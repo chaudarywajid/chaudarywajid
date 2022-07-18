@@ -46,8 +46,5 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
   </a>
   
   
-<img
-  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![giphycoding](https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif)
+
