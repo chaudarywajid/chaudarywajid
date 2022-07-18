@@ -47,9 +47,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
   </a>
   
-  <img alt="Technologies" align="left"  src="https://user-images.githubusercontent.com/5048841/179463349-1f580b36-7bef-4e4b-a9e4-bfe159bf0dd3.png" style="max-width: 100%;">
-  
- ![NetPro](https://user-images.githubusercontent.com/5048841/179463349-1f580b36-7bef-4e4b-a9e4-bfe159bf0dd3.png)
-
+  <img alt="Technologies" align="left" width="100"  src="https://user-images.githubusercontent.com/5048841/179463349-1f580b36-7bef-4e4b-a9e4-bfe159bf0dd3.png" style="max-width: 100%;">
+ 
  
 
