@@ -64,8 +64,10 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
    <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179473805-255d7ebb-6ece-4838-826e-b1ea649988f1.png" style="max-width: 100%;"></code></a>
    <a href="https://azure.microsoft.com/en-us/" title="Azure" rel="nofollow">
      <code><img alt="azure" height="35" src="https://user-images.githubusercontent.com/5048841/179474709-6ed41c2a-b18b-41e7-997d-b7a2f22c1335.png" style="max-width: 100%;"></code></a>
+     <!---
      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" title="Blazor" rel="nofollow">
 <code><img alt="blazor" height="35" src="https://user-images.githubusercontent.com/5048841/179480599-db2ec44e-ab07-48a7-85f7-31c2fd655058.png" style="max-width: 100%;"></code></a>  
+-->
  <a href="https://developers.arcgis.com/" title="ESRI" rel="nofollow">
 <code><img alt="esri" height="35" src="https://user-images.githubusercontent.com/5048841/179489558-c3bead48-d08d-4ff5-8137-63766e2284c9.png" style="max-width: 100%;"></code></a>   
 
