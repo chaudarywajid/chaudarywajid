@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mobile App Developer with 18+ years of professional experience. I have been working on the design and development of a complex distributed projects.
 
-
 <a href="https://www.linkedin.com/in/chaudarywajid/" title="LinkdeIn" rel="nofollow">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>    
 
@@ -27,9 +26,9 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 
 <a target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid">
 <img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
-  
-  **
-  
+
+------------
+> 
 
 **Talking about Personal Stuffs:**
 
@@ -44,7 +43,6 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" rel="nofollow">
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
   </a>
-  
-  
-![giphycoding](https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif)
+ 
+ <img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
 
