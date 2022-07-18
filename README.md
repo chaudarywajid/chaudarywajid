@@ -32,7 +32,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 
 **Talking about Personal Stuffs:**
 
-- 💻 I&#39;m a developer and team lead;
+- 💻 I&#39;m a developer, software architect and team lead;
 - 🌱 I&#39;m currently working on cloud distributed application;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@chaudarywajid](https://www.linkedin.com/in/chaudarywajid/);
