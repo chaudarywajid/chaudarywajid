@@ -28,17 +28,18 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 <img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
 
 > 
+<img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
 
 **Talking about Personal Stuffs:**
 
 - 💻 I&#39;m a developer and team lead;
-- 🌱 I&#39;m improving my skills in cloud and complex distributed application integration;
+- 🌱 I&#39;m currently working on cloud distributed application;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@chaudarywajid](https://www.linkedin.com/in/chaudarywajid/);
 - ⚽ My hobbies: Tech, Dev. Board and low level coding.
 
 
-<img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
+
 
 **Languages and Tools:**
 
