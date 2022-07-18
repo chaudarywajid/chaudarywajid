@@ -45,8 +45,9 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" rel="nofollow">
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
-  </a>  
-  <code><img alt="Net" height="35" src="https://user-images.githubusercontent.com/5048841/179471959-ee299d92-3a4d-428f-8355-705e1dfc0bfa.png" style="max-width: 100%;"></code>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" title="Net" rel="nofollow">
+  <code><img alt="Net" height="35" src="https://user-images.githubusercontent.com/5048841/179471959-ee299d92-3a4d-428f-8355-705e1dfc0bfa.png" style="max-width: 100%;"></code></a>
    <code><img alt="NetCore" width="35" src="https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png" style="max-width: 100%;"></code>
    <code><img alt="Jquery" height="35" src="https://user-images.githubusercontent.com/5048841/179473099-04ce3178-83cc-45b5-9d03-d5427f80dad4.png" style="max-width: 100%;"></code>
    <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179473805-255d7ebb-6ece-4838-826e-b1ea649988f1.png" style="max-width: 100%;"></code>
