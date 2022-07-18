@@ -53,7 +53,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
      <code><img alt="azure" height="35" src="https://user-images.githubusercontent.com/5048841/179474709-6ed41c2a-b18b-41e7-997d-b7a2f22c1335.png" style="max-width: 100%;"></code>
       <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179474882-d85877a1-566e-4229-a554-3f0e9304014c.png" style="max-width: 100%;"></code>
      
-     > 
+<br />
  <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179475059-d778a600-df6a-481d-9f5c-453b2303175c.png" style="max-width: 100%;"></code>
       
 
