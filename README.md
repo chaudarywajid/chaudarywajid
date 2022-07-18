@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mobile App Developer with 18+ years of professional experience. I have been working on the design and development of a complex distributed projects.
+Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mobile App Developer with 18+ years of professional experience. I have been working on the design and development of a complex distributed projects.
 
 <a href="https://www.linkedin.com/in/chaudarywajid/" title="LinkdeIn" rel="nofollow">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>    
