@@ -36,7 +36,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 - 🌱 I&#39;m currently working on cloud distributed application;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@chaudarywajid](https://www.linkedin.com/in/chaudarywajid/);
-- ⚽ My hobbies: Tech, Dev. Board and low level coding.
+- ⚽ My hobbies: Tech, IoT. Board dev and low level coding.
 
 
 
