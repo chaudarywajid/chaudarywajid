@@ -25,7 +25,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 </a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid">
-<img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chaudarywajid" style="max-width: 100%;"></a>
 
 > 
 <img alt="coding" align="right"  src="https://user-images.githubusercontent.com/5048841/179458980-cb7dace0-7bfe-4edd-9faa-2e5a916a9e3c.gif" style="max-width: 100%;">
