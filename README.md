@@ -44,4 +44,10 @@ Salam, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" rel="nofollow">
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
   </a>
-
+  
+  
+<img
+  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
