@@ -60,10 +60,6 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
  <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481313-1f5c99ea-2df6-4b04-abed-2e532837631d.png" style="max-width: 100%;"></code>
   <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481816-0c4afeb2-8e84-4aed-9911-12ab45515fb3.jpg" style="max-width: 100%;"></code>
   
-  
-  ![json-logo](https://user-images.githubusercontent.com/5048841/179481816-0c4afeb2-8e84-4aed-9911-12ab45515fb3.jpg)
-
-
 <!--
   
   <img alt="Technologies" align="left" src="https://user-images.githubusercontent.com/5048841/179463349-1f580b36-7bef-4e4b-a9e4-bfe159bf0dd3.png" style="max-width: 100%;">
