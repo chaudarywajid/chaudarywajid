@@ -48,8 +48,10 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" title="Net" rel="nofollow">
   <code><img alt="Net" height="35" src="https://user-images.githubusercontent.com/5048841/179471959-ee299d92-3a4d-428f-8355-705e1dfc0bfa.png" style="max-width: 100%;"></code></a>
-   <code><img alt="NetCore" width="35" src="https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png" style="max-width: 100%;"></code>
-   <code><img alt="Jquery" height="35" src="https://user-images.githubusercontent.com/5048841/179473099-04ce3178-83cc-45b5-9d03-d5427f80dad4.png" style="max-width: 100%;"></code>
+   <a href="https://dotnet.microsoft.com/en-us/" title="NetCore" rel="nofollow">
+   <code><img alt="NetCore" width="35" src="https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png" style="max-width: 100%;"></code></a>   
+    <a href="https://jquery.com/" title="jquery" rel="nofollow">
+   <code><img alt="Jquery" height="35" src="https://user-images.githubusercontent.com/5048841/179473099-04ce3178-83cc-45b5-9d03-d5427f80dad4.png" style="max-width: 100%;"></code></a>
    <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179473805-255d7ebb-6ece-4838-826e-b1ea649988f1.png" style="max-width: 100%;"></code>
      <code><img alt="azure" height="35" src="https://user-images.githubusercontent.com/5048841/179474709-6ed41c2a-b18b-41e7-997d-b7a2f22c1335.png" style="max-width: 100%;"></code>
 <code><img alt="blazor" height="35" src="https://user-images.githubusercontent.com/5048841/179480599-db2ec44e-ab07-48a7-85f7-31c2fd655058.png" style="max-width: 100%;"></code>     
