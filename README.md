@@ -51,14 +51,16 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
    <code><img alt="Jquery" height="35" src="https://user-images.githubusercontent.com/5048841/179473099-04ce3178-83cc-45b5-9d03-d5427f80dad4.png" style="max-width: 100%;"></code>
    <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179473805-255d7ebb-6ece-4838-826e-b1ea649988f1.png" style="max-width: 100%;"></code>
      <code><img alt="azure" height="35" src="https://user-images.githubusercontent.com/5048841/179474709-6ed41c2a-b18b-41e7-997d-b7a2f22c1335.png" style="max-width: 100%;"></code>
-     
+<code><img alt="blazor" height="35" src="https://user-images.githubusercontent.com/5048841/179480599-db2ec44e-ab07-48a7-85f7-31c2fd655058.png" style="max-width: 100%;"></code>     
       
-<p dir="auto"></p>  
-<code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179480599-db2ec44e-ab07-48a7-85f7-31c2fd655058.png" style="max-width: 100%;"></code>
+<p dir="auto"></p>
+<code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179483133-3225f7a2-b1a2-48f2-8db9-e5ab67a38731.png" style="max-width: 100%;"></code>
 <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179480292-813c1d1b-96ef-41bc-b4ab-f35725f02638.png" style="max-width: 100%;"></code>
  <code><img alt="win" height="32" src="https://user-images.githubusercontent.com/5048841/179475059-d778a600-df6a-481d-9f5c-453b2303175c.png" style="max-width: 100%;"></code>
  <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481313-1f5c99ea-2df6-4b04-abed-2e532837631d.png" style="max-width: 100%;"></code>
   <code><img alt="win" height="35" src="https://user-images.githubusercontent.com/5048841/179481816-0c4afeb2-8e84-4aed-9911-12ab45515fb3.jpg" style="max-width: 100%;"></code>
+  
+  
   
 <!--
   
