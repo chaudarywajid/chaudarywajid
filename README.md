@@ -46,7 +46,7 @@ Hi, my name is [Wajid Khan](https://iamwajidkhan.com/), a Full-Stack Web and Mob
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" rel="nofollow">
     <code><img alt="C#" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/195px-C_Sharp_wordmark.svg.png" style="max-width: 100%;"></code>
   </a>  
-  <img alt="Technologies" width="35" src="https://user-images.githubusercontent.com/5048841/179468273-4ddd0c8e-4bd2-4adf-8af4-c3de85c46eea.png" style="max-width: 100%;">
+  <code><img alt="Technologies" width="35" src="https://user-images.githubusercontent.com/5048841/179468273-4ddd0c8e-4bd2-4adf-8af4-c3de85c46eea.png" style="max-width: 100%;"></code>
    <code><img alt="Technologies" width="35" src="https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png" style="max-width: 100%;"></code>
   
   ![NET_Core_Logo svg](https://user-images.githubusercontent.com/5048841/179468239-658217ab-0a64-46ef-a1c9-5aedcbe84098.png)
